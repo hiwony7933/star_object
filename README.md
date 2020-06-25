@@ -5,4 +5,4 @@
 
 * 케릭터 개체 labeling 및 추출 
 
-<img src = './img/test_frame1006.jpg'></img>
+<img src = './img/test_frame1007.jpg'></img>
